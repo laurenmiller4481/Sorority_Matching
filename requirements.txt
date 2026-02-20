@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+networkx
+scikit-learn
+sentence-transformers
+xlsxwriter
+openpyxl
+st-gsheets-connection
